@@ -1,0 +1,10 @@
+*.json
+!plugin_definitions.json
+*.log*
+**/__pycache__
+**/python-pinterest-api
+**/certs
+**/lib
+**/dev
+*.dccache
+*.lock
